@@ -12,7 +12,7 @@ tokio-util="0.2.0"
 chrono ="0.4.10"
 serde = "1.0.104"
 serde_json = "1.0.45"
-lwp-util = { version = "0.1.0", path = "../lwp-util"}
+lwp-util = { git = "https://github.com/lwp001/lwp-util.git", branch = "master" }
 
 [dependencies.diesel]
 version = "1.4.3"
