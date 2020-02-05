@@ -1,5 +1,5 @@
 [package]
-name = "jt808"
+name = "jt808_rs"
 version = "0.1.0"
 authors = ["lwp"]
 edition = "2018"
